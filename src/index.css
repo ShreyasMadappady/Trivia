@@ -1,7 +1,7 @@
 @font-face {
   font-family: futuram;
-  src: url("src/fonts/futuraMediumBT.woff");
-  /* src: url("https://pub-fda2822a46e14c078dd237fc34f45104.r2.dev/futuram.ttf"); */
+  /* src: url("src/fonts/futuraMediumBT.woff"); */
+  src: url("https://pub-fda2822a46e14c078dd237fc34f45104.r2.dev/futuraMediumBT.woff");
 }
 
 @tailwind base;
@@ -9,5 +9,5 @@
 @tailwind utilities;
 
 * {
-  font-family: "futuram" ;
+  font-family: "futuram";
 }
