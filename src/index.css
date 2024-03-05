@@ -1,3 +1,12 @@
+@font-face {
+  font-family: futuram;
+  src: url("src/fonts/futuram.ttf");
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "futuram";
+}
