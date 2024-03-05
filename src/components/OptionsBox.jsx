@@ -1,6 +1,7 @@
 function OptionsBox() {
   return (
-    <div className="bg-white p-[1.63rem] rounded-[0.52rem] mt-[2.81rem] w-[34.78rem]">
+    // <div className="bg-white p-[1.63rem] rounded-[0.52rem] mt-[2.81rem] w-[34.78rem]">
+    <div className="bg-white p-[1.63rem] rounded-[0.52rem] mt-[2.81rem] ">
       <div className="flex justify-between ">
         <h1
           className="font-bold text-[1.31rem

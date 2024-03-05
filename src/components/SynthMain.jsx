@@ -68,6 +68,13 @@ function SynthMain() {
           <OptionsBox />
         </div>
       </div>
+      <div className="mt-[4.83rem] flex gap-[13.47px]">
+        <button className="bg-[#E00000] rounded-[8.42px] py-[16px]  px-[17.68px] text-[1.31rem] text-white">
+          Accept
+        </button> <button className="bg-[#E00000] rounded-[8.42px] py-[16px]  px-[17.68px] text-[1.31rem] text-white">
+      Reject
+        </button>
+      </div>
     </div>
   );
 }
